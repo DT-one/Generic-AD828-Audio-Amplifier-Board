@@ -4,3 +4,4 @@ These audio amplifier opamp boards are commonly available on sites like Amazon, 
 
 Here is an accurate recreation in KiCAD, including spice simulations and gain resistor settings.
 
+![3D Render of the board](3D_View.png)
